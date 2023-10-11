@@ -22,7 +22,9 @@ function Header() {
                 filter
                 blur-3xl
                 opacity-50
-                " />
+                -z-50
+                "
+            />
 
             <Image 
                 src="https://links.papareact.com/c2cdd5"
